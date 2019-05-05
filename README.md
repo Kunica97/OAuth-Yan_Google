@@ -1,4 +1,4 @@
-# OAuth-Yan_Google
+# OAuth-Yan_Google - Реализация дополнительной стратегии oAuth 2.0
 ## Не забудьте установить зависимости npm (должен быть установлен node.js)
 - npm init
 - npm install -S express
